@@ -1,0 +1,13 @@
+body {
+  background-image: url("../images/blue-background.jpg");
+  font-family: Arial, Helvetica, sans-serif
+}
+#game-container {
+    background-color: lightcoral;
+    height: 500px;
+}
+h1 {
+    font-size: 22px;
+    font-family: cosmic-sands;
+    padding: 20px;
+}
